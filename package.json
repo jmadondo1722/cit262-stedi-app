@@ -1,0 +1,25 @@
+{
+  "name": "cit262-stedi-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmadondo1722/cit262-stedi-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmadondo1722/cit262-stedi-app/issues"
+  },
+  "homepage": "https://github.com/jmadondo1722/cit262-stedi-app#readme"
+}
